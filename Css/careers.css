@@ -1,0 +1,37 @@
+.nav-img{
+	background-image:url(https://www.ltmetro.com/wp-content/uploads/2018/05/Careers.jpg?id=423);
+}
+.metro-head{
+	color:white;
+}
+.middle-body{
+	width:1220px;
+	margin: 30px  auto;
+	padding:0 10px;
+}
+.body-head{
+	font-size:35px;
+}
+.mi-body{
+	width:1220px;
+	height:auto;
+	margin: 30px auto;
+	padding:0 10px;
+	display:block;
+	color:#797878;
+}
+.body-link{
+	margin-top:50px;
+}
+.body-link a{ 
+	text-decoration:none;
+	color:#004B88;
+	padding:14px 20px;
+	font-size:14px;
+	border:1px solid #004B88;
+	border-radius:5px;
+}
+.body-link a:hover{
+	background-color:#004B88;
+	color:white;
+} 

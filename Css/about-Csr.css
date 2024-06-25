@@ -1,0 +1,35 @@
+.nav-img{
+	background-image:url(https://www.ltmetro.com/wp-content/uploads/2018/05/abouthmr.jpg?id=311);
+	color:white;
+}
+.middle-body{
+	width:1220px;
+	margin: 30px  auto;
+	padding:0 10px;
+}
+.body-head{
+	font-size:35px;
+}
+.mi-body{
+	width:1220px;
+	height:auto;
+	margin: 30px auto;
+	padding:0 10px;
+	display:flex;
+	color:#797878;
+}
+.middle-left{
+	width:920px;
+	height:auto;
+	padding:0 10px;
+	display:block;
+	height:auto;
+	text-align:justify;
+	word-spacing:0.1px;
+	letter-spacing:0.1px;
+	font-size:15px;
+	line-height:16px;
+}
+.middle-right{
+	width:300;
+}

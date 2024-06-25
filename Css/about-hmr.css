@@ -1,0 +1,52 @@
+.nav-img{
+	background-image:url(https://www.ltmetro.com/wp-content/uploads/2018/05/abouthmr.jpg?id=311);
+	height:435px;
+	color:white;
+}
+.metro-head{
+	margin: 70px 0;
+}
+.metro-head h1{
+	font-size:45px;
+    font-weight: 400;
+	margin-bottom:30px;
+}
+.metro-head a{
+	text-decoration:none;
+	color:white;
+	font-size:17px;
+}
+.about-content{
+	width:80%;
+	margin:auto;
+}
+.head-content{
+	margin:50px 0 20px 0;
+	font-size:17px;
+}
+.matter{
+	width:1220px;
+	height:320px;
+	margin:auto;
+	display:flex;
+	padding-top:5px;
+}
+.mat-cont{
+	width:920px;
+	color:#797878;
+}
+.mat-img img{
+	padding-top:20px;
+}
+.mat-cont p{
+	text-align:justify;
+	padding:0 5px;
+	letter-spacing:0.2px;
+}
+.mat-cont ul li{
+	list-style-type:none;
+    font-size: 16px;
+    line-height: 30px;
+	background: url(https://www.ltmetro.com/wp-content/themes/ltmetro/assets/img/list_style_bg.png) no-repeat 0px 7px;
+	padding-left:25px;
+}

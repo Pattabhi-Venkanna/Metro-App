@@ -1,0 +1,99 @@
+.nav-img{
+	background-image:url(https://www.ltmetro.com/wp-content/uploads/2018/05/trip_banner.jpg?id=300);
+	height:675px;
+	background-size:100%;
+}
+.navs{
+	display:block;
+}
+.nav-body{
+	display:flex;
+	padding-top:70px;
+	color:white;
+}
+.nav-left{
+	width:45%;
+	
+	font-size:30px;
+}
+.nav-right{
+	width:55%;
+	padding-left:20px;
+	display:grid;
+	grid-template-columns:auto auto;
+}
+.grd-itm{
+	display:flex;
+	margin-bottom:70px;
+}
+.grd-itm strong{
+	
+	border-radius:100%;
+	background-color:red;
+	font-size:40px;
+	padding:10px;
+	margin:10px;
+}
+.str{
+	border-radius:50%;
+	color:white;
+	height:60px;
+	width:60px;
+}
+.str h3{
+	padding-left:23px;
+	font-size:20px;
+}
+.bb{
+	padding-top:20px;
+	padding-left:10px;
+	font-weight:bold;
+}
+.bb a{
+	color:white;
+	text-decoration:none;
+}
+.c-1{
+	background-color:#007dbe;
+}
+.c-2{
+	background-color:#00a651;
+}
+.c-3{
+	background-color:#57a3d3;
+}
+.c-4{
+	background-color:#ee1c24;
+}
+.c-5{
+	background-color:#f15b40;
+}
+.c-6{
+	background-color:#ffcb05;
+}
+.mid{
+	display:block;
+	width:80%;
+	margin:auto;
+}
+.mid-head{
+	margin:auto;
+}
+.col{
+	color:#797878;
+	letter-spacing:0.2px;
+}
+.main-grd{
+	display:grid;
+	grid-template-columns:auto auto;
+}
+.gr-item{
+	display:block;
+}
+.matt-1{
+	display:flex;
+	padding:30px;
+}
+.sp{
+	padding-left:20px;
+}

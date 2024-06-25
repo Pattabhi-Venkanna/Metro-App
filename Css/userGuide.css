@@ -1,0 +1,45 @@
+.nav-img{
+	background-image:url(https://www.ltmetro.com/wp-content/uploads/2018/09/project_updates_banner.jpg?id=2285);
+	background-size:100%;
+}
+.middle-body{
+	width:1220px;
+	margin: 30px  auto;
+	padding:0 10px;
+	display:block;
+}
+.body-head{
+	font-size:20px;
+}
+.mid-body{
+	width:1220px;
+	margin: 30px  auto;
+	padding:0 10px;
+	display:flex;
+}
+.mid-left{
+	width:50%;
+	margin:auto;
+	display:flex;
+}
+.mid-right{
+	width:50%;
+	margin:auto;
+}
+.mid-cont{
+	width:190px;
+	height:233px;
+	background-color:#daecfa;
+
+}
+.mid-cont h3{
+	padding:10px;
+	color:#004b88;
+}
+.mid-cont p{
+	padding:5px 10px;
+	font-size:13px;
+}
+.mid-img{
+	display:flex;
+}

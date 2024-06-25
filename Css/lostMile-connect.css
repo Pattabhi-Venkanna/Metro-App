@@ -1,0 +1,43 @@
+.middle-body{
+	width:1220px;
+	margin: 30px  auto;
+	padding:0 10px;
+}
+.body-head{
+	font-size:25px;
+}
+.nav-img{
+	background-image:url(https://www.ltmetro.com/wp-content/uploads/2018/05/Lastmilecoinnextivity.jpg?id=531);
+	background-size:100%;
+	height:470px;
+}
+table{
+	text-align:center;
+}
+td{
+	color:#797878;
+	font-size:14px;
+	letter-spacing:0.4px;
+}
+table th{
+	background-color:#004b88;
+	color:white;
+	padding:7px;
+	text-align:center;
+	
+}
+.tab-3 {
+	border:1px solid #797878;
+	border-collapse:collapse;
+}
+.tab-3 th{
+	border:2px solid white;
+	font-size:14px;
+	font-weight:normal;
+}
+.tab-3 td{
+	border-collapse:collapse;
+	border:1px solid lightgrey;
+	padding:7px;
+	
+}

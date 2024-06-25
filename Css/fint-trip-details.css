@@ -1,0 +1,63 @@
+.nav-img{
+	background-image:url(https://www.ltmetro.com/wp-content/uploads/2018/06/search_banner.jpg?id=999);
+	height:432px;
+}
+.middle-body{
+	width:1220px;
+	margin: 30px  auto;
+	padding:0 10px;
+	display:block;
+}
+.body-head{
+	font-size:25px;
+}
+.middle-body p{
+	color:#797878;
+}
+.mid-body{
+	width:1220px;
+	margin:auto;
+	display:flex;
+}
+.part-1{
+	display:block;
+	padding-right:50px;
+}
+.part-1 select{
+	display: block;
+    width: 300px;
+	height:40px;
+    margin: 10px 0px;
+    padding: 10px;
+    font-size: 15px;
+	outline: none;
+	border: 1px solid #ddd;
+    font-weight: 300;
+	border-radius:3px;
+}
+.mid-body a{
+	background-color:green;
+	text-decoration:none;
+	color:white;
+	padding:10px 30px;
+	position:relative;
+	top:23px;
+}
+
+.mid-list{
+	color:#797878;
+	line-height:25px;
+	width:400px;
+	
+}
+.mid-list ul li{
+	background: url(https://www.ltmetro.com/wp-content/themes/ltmetro/assets/img/list_style_bg.png) no-repeat 0px 5px;
+    font-size: 16px;
+	list-style-type:none;
+	padding-left:25px;
+	font-size:14px;
+	color:black;
+}
+.mid-img{
+	margin:20px 0 0 100px;
+}

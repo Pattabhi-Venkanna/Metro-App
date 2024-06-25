@@ -1,0 +1,70 @@
+.nav-img{
+	background-image:url(https://www.ltmetro.com/wp-content/uploads/2018/05/search_banner.jpg?id=539);
+	height:432px;
+}
+.metro-head{
+	color:white;
+}
+.middle-body{
+	width:1220px;
+	margin: 30px  auto;
+	padding:0 10px;
+	display:block;
+}
+.body-head{
+	font-size:35px;
+}
+.fair-info{
+	padding-top:10px;
+}
+.fair-info p{
+	color:#797878;
+	font-size:13.5px;
+	margin-bottom:10px;
+}
+.body-link{
+	margin-top:50px;
+}
+.body-link a{ 
+	text-decoration:none;
+	color:#004B88;
+	padding:14px 20px;
+	font-size:14px;
+	border:1px solid #004B88;
+	border-radius:5px;
+}
+.body-link a:hover{
+	background-color:#004B88;
+	color:white;
+} 
+.grid-main{
+	display:flex;
+	justify-content:space-between;
+}
+.grd-item{
+	width:380px;
+	height:350px;
+	border:1px solid rgb(0,0,0,0.2);
+}
+.grd-item p{
+	text-align:justify;
+	padding: 2px 7px;
+	color:#797878;
+	font-size:13.3px;
+	text-align:justify;
+}
+.grd-item:hover{
+	box-shadow:5px 15px 20px rgb(0,0,0,0.3);
+}
+.bg{
+	background: url(https://www.ltmetro.com/wp-content/themes/ltmetro/assets/img/list_style_bg.png) no-repeat 0px 6px;
+}
+.bg p{
+	padding:5px 30px;
+}
+.bg-img{
+	width:1200px;
+	height:275px;
+	background: url(https://www.ltmetro.com/wp-content/themes/ltmetro/assets/img/classsic_card.jpg);
+	margin:auto;
+}

@@ -1,0 +1,45 @@
+.nav-img{
+	background-image:url(https://www.ltmetro.com/wp-content/uploads/2018/05/greenmetro.jpg?id=343);
+	
+}
+.metro-head{
+	color:white;
+}
+.middle-body{
+	width:1220px;
+	margin: 30px  auto;
+	padding:0 10px;
+}
+.body-head{
+	font-size:35px;
+}
+.mi-body{
+	width:1220px;
+	height:auto;
+	margin: 30px auto;
+	padding:0 10px;
+	display:flex;
+}
+.middle-left{
+	width:920px;
+	height:auto;
+	padding:0 10px;
+	display:block;
+	height:auto;
+}
+.middle-right{
+	width:300;
+}
+.middle-right img{
+	border: 3px solid #e2dcdc;
+}
+.para-1{
+	color:#797878;
+}
+.para-1 ul li{
+	background: url(https://www.ltmetro.com/wp-content/themes/ltmetro/assets/img/list_style_bg.png) no-repeat 0px 5px;
+    font-size: 16px;
+	list-style-type:none;
+	padding-left:25px;
+	margin-top:10px;
+}

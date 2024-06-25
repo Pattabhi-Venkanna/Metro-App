@@ -1,0 +1,214 @@
+/*    */
+.nav-img{
+	width:100%;
+	height:auto;
+	background-image:url(https://www.ltmetro.com/wp-content/uploads/2021/02/HeartTransplant-1.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin:5px 0;
+}
+
+.row-2{
+	width:340px;
+	height:450px;
+	position:relative;
+	left:800px;
+	top:0px;
+	background-color:rgba(0, 75, 136, 0.9);
+	margin:100px 0 0 199px;
+	color:white;
+	padding:10px 0 0 25px;
+}
+.row-head{
+	width:100%;
+	padding:8px 0 10px 0
+}
+.row-head select{
+	display: block;
+    width: 90%;
+	height:50px;
+    margin: 15px 3px;
+    padding: 10px;
+    font-size: 15px;
+	outline: none;
+	border-bottom: 1px solid #eee;
+    font-weight: 300;
+	border-radius:3px;
+}
+.row-head option:hover{
+	color:white;
+	background-color:blue;
+	
+}
+.red{
+	color:red;
+}
+.row-head button{
+	width:100px;
+	height:50px;
+	background-color:green;
+	color:white;
+	border:none;
+	margin: 15px 3px;
+}
+.grid-section{
+	width:80%;
+	height:100px;
+	padding:15px 0;
+	margin:auto;
+	color:#393a3c;
+	display:block;
+	
+}
+.line-align{
+	font-size:25px;
+}
+.lines{
+	margin:auto;
+	background-color:#393a3c;
+	width:90px;
+	height:5px;
+}
+.grid-1{
+	width:80%;
+	height:auto;
+	font-family: inherit;
+	margin:10px auto;
+	display:grid;
+	grid-template-columns:auto auto auto auto;
+	text-align:center;
+}
+.grid-item-1{
+	margin:25px;
+	display:block;
+}
+.grid-item-1 a{
+	text-decoration:none;
+}
+.img-brd{
+	width:100px;
+	height:100px;
+	border:3px solid #337ab7;
+	border-radius:50%;
+	margin:auto;
+}
+.img-s{
+	margin:23px;
+}
+.heading{
+	color:#393a3c;
+}
+.paragraph{
+	color:#8f8f8f;
+}
+.smart-cards{
+	width:50%;
+	
+	display:grid;
+	grid-template-columns:auto auto;
+	margin:10px auto;
+	
+}
+.smartcard-grid{
+	display:block;
+	
+}
+.smartcard-image{
+	margin:20px;
+}
+.smartcard-grid a{
+	text-decoration:none;
+	color:#004B88;
+	padding:10px 30px;
+	
+	line-height:20px;
+	border:1px solid black;
+	border-radius:5px;
+	
+}
+.smartcard-grid a:hover{
+	color:white;
+	background-color:#004B88;
+	
+}
+.view-link{
+	margin-left:60%;
+	margin-top:15px;
+	padding:30px;
+	
+}
+.recharge-link{
+	padding:30px 20px;
+}
+
+
+.nav-img::after{
+	content:"";
+	display:table;
+	clear:both;
+}
+.grid-section::after{
+	content:"";
+	display:table;
+	clear:both;
+}
+.metro-map{
+	width:1200px;
+	height:600px;
+	background-color:#007DBE;
+	margin:auto;
+	display:flex;
+	background-color: #007dbe;
+    background-image: url(https://www.ltmetro.com/wp-content/uploads/2018/12/station.png);
+    background-repeat: no-repeat;
+    background-size: 600px;
+    background-position: 0% 125%;
+}
+.metro-map-content{
+	width:50%;
+	color:white;
+}
+.metro-cont{
+	width:520px;
+	height:auto;
+	margin:auto;
+	display:block;
+}
+.metro-para p{
+	font-size:16px;
+	letter-spacing:0.1px;
+	text-align:justify;
+}
+.metro-title{
+	font-size:25px;
+}
+.metro-map-img{
+	width:50%;
+}
+.st-name select{
+	display: block;
+    width: 60%;
+	height:40px;
+    margin:0 0 10px;
+    padding: 11px;
+    font-size: 15px;
+	outline: none;
+	border-bottom: 1px solid #eee;
+    font-weight: 300;
+	border-radius:3px;
+}
+.st-btn button{
+	background-color:green;
+	color:white;
+	border:none;
+	width:180px;
+	cursor:pointer;
+	padding:12px 64px;
+}
+{
+    background-color: #007dbe;
+    background-image: url(https://www.ltmetro.com/wp-content/uploads/2018/12/station.png);
+    background-repeat: no-repeat;
+    background-size: 608px;
+    background-position: 0% 125%;
+}

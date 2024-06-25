@@ -1,0 +1,15 @@
+.nav-img{
+	background-image:url(https://www.ltmetro.com/wp-content/uploads/2018/05/train_timeing.jpg?id=467);
+}
+.metro-head{
+	color:white;
+}
+.middle-body{
+	width:1220px;
+	margin: 30px  auto;
+	padding:0 10px;
+	display:block;
+}
+.body-head{
+	font-size:35px;
+}

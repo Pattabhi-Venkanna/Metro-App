@@ -1,0 +1,37 @@
+.nav-img{
+	background-image:url(https://www.ltmetro.com/wp-content/uploads/2018/05/career-banner.jpg?id=573);
+	height:433px;
+}
+.middle-body{
+	width:1220px;
+	margin: 30px  auto;
+	padding:0 10px;
+	display:block;
+}
+.middle-body p{
+	color:#797878;
+}
+.body-head{
+	font-size:35px;
+}
+.tab{
+	width:1220px;
+	margin:auto;
+}
+table{
+	border-collapse:collapse;
+}
+table td,table th{
+	border:1px solid #797878;
+}
+
+ 
+td p{
+	color:#797878;
+	font-size:13.5px;
+	padding: 0 5px 5px 15px;
+}
+u{
+	padding: 0 5px 5px 10px;
+	font-size:14px;
+}
